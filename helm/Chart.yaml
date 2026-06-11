@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-records-management
+description: "BIAN Service Domain: Records Management (Maintain pattern, Risk and Compliance)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - maintain
+annotations:
+  bian/business-area: "Risk and Compliance"
+  bian/business-domain: "Compliance"
+  bian/asset-type: "Record Archive"
+  bian/control-record: "Record Archive Maintenance Agreement"
